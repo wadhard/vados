@@ -2,7 +2,7 @@
 Ссылкана документ (продублированная)
 https://drive.google.com/file/d/1k-niJzwSmIawY6uYwNNxWFwPybLZRl6t/view?usp=sharing
 
-
+- ![Терраформ](img/terraform.png)
 
 Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
 Для решения поставленной задачи я:
